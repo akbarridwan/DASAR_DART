@@ -1,6 +1,6 @@
 void main(){
     // membaut variabel dengan tipe data
-    String nama = "Akbar";
+    String nama = "Akbar Ridwan";
     int umur = 23;
     double tinggi = 175.43;
     bool isMenikah = false;
